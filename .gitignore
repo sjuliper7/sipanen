@@ -1,0 +1,10 @@
+#NetBeansIDEA
+/nbproject/*
+/build
+*.class
+manifest.mf
+build.xml
+
+#IntellijIDEA
+.idea*
+SIPanen_NetBeans.iml

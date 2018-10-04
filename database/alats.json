@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nama": "Cangkul",
+    "kuantitas": 10,
+    "deskripsi": "Awesome..."
+  },
+  {
+    "id": 2,
+    "nama": "Pompa Pupuk",
+    "kuantitas": 10,
+    "deskripsi": "Awseo"
+  },
+  {
+    "id": 3,
+    "nama": "Sabit",
+    "kuantitas": 20,
+    "deskripsi": "Sesekali"
+  }
+]

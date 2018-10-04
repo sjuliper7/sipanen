@@ -1,0 +1,13 @@
+[
+  {
+    "id": 0,
+    "idPeminjaman": 1,
+    "alat": {
+      "id": 1,
+      "nama": "Cangkul",
+      "kuantitas": 10,
+      "deskripsi": "Awesome..."
+    },
+    "jumlah": 2
+  }
+]

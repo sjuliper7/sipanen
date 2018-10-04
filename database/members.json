@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nama": "a",
+    "tempatTanggalLahir": "Balige",
+    "umur": 20,
+    "gender": "19"
+  },
+  {
+    "id": 2,
+    "nama": "Juliper",
+    "tempatTanggalLahir": "Balige",
+    "umur": 20,
+    "gender": "10"
+  },
+  {
+    "id": 3,
+    "nama": "sibalgaulu",
+    "tempatTanggalLahir": "medan,",
+    "umur": 23,
+    "gender": "345"
+  },
+  {
+    "id": 5,
+    "nama": "wpwpwp",
+    "tempatTanggalLahir": "23 23 23 ",
+    "umur": 23,
+    "gender": "laki laki"
+  }
+]

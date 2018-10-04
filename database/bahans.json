@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nama": "test",
+    "kuantitas": 12,
+    "deskripsi": "asd",
+    "harga": 10000.0
+  },
+  {
+    "id": 2,
+    "nama": "tets2",
+    "kuantitas": 20,
+    "deskripsi": "hahaha",
+    "harga": 10000.0
+  },
+  {
+    "id": 3,
+    "nama": "NPK",
+    "kuantitas": 20,
+    "deskripsi": "bagus",
+    "harga": 10000.0
+  },
+  {
+    "id": 4,
+    "nama": "Urea",
+    "kuantitas": 20,
+    "deskripsi": "bagus",
+    "harga": 10000.0
+  },
+  {
+    "id": 5,
+    "nama": "ZTA",
+    "kuantitas": 3,
+    "deskripsi": "asd",
+    "harga": 10000.0
+  },
+  {
+    "id": 7,
+    "nama": "qwerty",
+    "kuantitas": 1,
+    "deskripsi": "asdd",
+    "harga": 10000.0
+  }
+]

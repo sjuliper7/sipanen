@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "member": {
+      "id": 2,
+      "nama": "Juliper",
+      "tempatTanggalLahir": "Balige",
+      "umur": 20,
+      "gender": "10"
+    },
+    "detailPeminjaman": [
+      {
+        "id": 0,
+        "idPeminjaman": 1,
+        "alat": {
+          "id": 1,
+          "nama": "Cangkul",
+          "kuantitas": 10,
+          "deskripsi": "Awesome..."
+        },
+        "jumlah": 2
+      }
+    ],
+    "tanggalPeminjaman": "2018/01/09",
+    "jumlahHari": 3,
+    "tanggalSelesai": "2018-01-12"
+  }
+]

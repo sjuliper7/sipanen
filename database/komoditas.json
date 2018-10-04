@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Padi",
+    "id": 1,
+    "satuan": "Kaleng"
+  },
+  {
+    "name": "Kentang",
+    "id": 2,
+    "satuan": "Kilogram"
+  },
+  {
+    "name": "Sayur",
+    "id": 3,
+    "satuan": "Kilogram"
+  }
+]

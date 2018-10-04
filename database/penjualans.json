@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "member": {
+      "id": 1,
+      "nama": "a",
+      "tempatTanggalLahir": "Balige",
+      "umur": 20,
+      "gender": "19"
+    },
+    "detailPenjualans": [
+      {
+        "id": 1,
+        "idPenjualan": 1,
+        "bahan": {
+          "id": 2,
+          "nama": "tets2",
+          "kuantitas": 20,
+          "deskripsi": "hahaha",
+          "harga": 10000.0
+        },
+        "jumlah": 2,
+        "subtotalHarga": 20000.0
+      },
+      {
+        "id": 2,
+        "idPenjualan": 1,
+        "bahan": {
+          "id": 3,
+          "nama": "NPK",
+          "kuantitas": 20,
+          "deskripsi": "bagus",
+          "harga": 10000.0
+        },
+        "jumlah": 1,
+        "subtotalHarga": 10000.0
+      }
+    ],
+    "totalHarga": 30000.0,
+    "tanggalPenjualan": "2017/12/28 19:33:51"
+  }
+]

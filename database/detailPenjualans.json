@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "idPenjualan": 1,
+    "bahan": {
+      "id": 2,
+      "nama": "tets2",
+      "kuantitas": 20,
+      "deskripsi": "hahaha",
+      "harga": 10000.0
+    },
+    "jumlah": 2,
+    "subtotalHarga": 20000.0
+  },
+  {
+    "id": 2,
+    "idPenjualan": 1,
+    "bahan": {
+      "id": 3,
+      "nama": "NPK",
+      "kuantitas": 20,
+      "deskripsi": "bagus",
+      "harga": 10000.0
+    },
+    "jumlah": 1,
+    "subtotalHarga": 10000.0
+  }
+]
